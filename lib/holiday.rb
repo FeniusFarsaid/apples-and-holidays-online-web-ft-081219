@@ -72,7 +72,7 @@ end
   #   Fourth Of July: Fireworks, BBQ
   # etc.
 
-end
+
 
 def all_holidays_with_bbq(holiday_hash)
   bbq_array =[]
